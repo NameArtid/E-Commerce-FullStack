@@ -49,4 +49,5 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    filter: drop-shadow(20px 7px 5px #d3d3d3);
 }
